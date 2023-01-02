@@ -2,7 +2,7 @@
 
 ***I wasn't able to add my data file to github as the file was too big***
 
-To run most of the code you will need to install numpy,PyTorch, and Matplotlib.
+To run most of the code you will need to install numpy,PyTorch,Pandas and Matplotlib.
 
 -For Task 1 no data is required
 
