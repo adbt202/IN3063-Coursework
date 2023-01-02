@@ -1,6 +1,5 @@
-# IN3063-Coursework
-
-***I wasn't able to add my data file to github as the file was too big***
+IN3063-Coursework
+I wasn't able to add my data file to github as the file was too big
 
 To run most of the code you will need to install numpy,PyTorch,Pandas and Matplotlib.
 
@@ -12,5 +11,7 @@ To run most of the code you will need to install numpy,PyTorch,Pandas and Matplo
 
 -For Task 3 casestudy the data is alredy present
 
-
-
+Installation-
+--pip install numpy
+--pip install pandas
+--pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
